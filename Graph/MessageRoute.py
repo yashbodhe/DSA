@@ -35,5 +35,5 @@ if __name__=="__main__":
         print(*res_path[0])
     else:
         print("IMPOSSIBLE")
-        
+
         
