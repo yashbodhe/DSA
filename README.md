@@ -1,2 +1,2 @@
-# CSES
- This repository contains my solution of CSES problems in PYTHON..
+# DSA
+ This repository contains my solution of DSA problems in PYTHON..
